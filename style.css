@@ -61,7 +61,7 @@
 body {
     background-image: url('img/gambar_aisy.jpg');
     background-size: cover;
-    background-position: bottom;
+    background-position: center 80%;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
