@@ -61,13 +61,13 @@
 body {
     background-image: url('img/gambar_aisy.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 img {
-    width: 50%;
+    width: 100%;
 }
 
 .balloon-border {
